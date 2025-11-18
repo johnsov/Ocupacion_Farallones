@@ -1,0 +1,18 @@
+# Archivos temporales de Microsoft Office
+~$*
+
+# Archivos temporales macOS
+.DS_Store
+
+# Archivos LaTeX temporales
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.lof
+*.lot
+
+# Archivos basura
+Thumbs.db
